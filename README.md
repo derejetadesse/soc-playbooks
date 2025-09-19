@@ -1,8 +1,10 @@
-# soc-playbooks
-Incident Response playbooks (phishing, malware, ransomware) with IOCs and runbooks.
 # SOC Playbooks
-
 Practical incident response playbooks by **Dereje Deressa**.
+
+## 📚 Playbooks
+- [Phishing Response](playbooks/phishing_response.md)
+- [Ransomware Response](playbooks/ransomware_response.md)
+- [Malware Triage](playbooks/malware_triage.md)
 
 ## 📚 What’s inside
 - `playbooks/phishing_response.md`
